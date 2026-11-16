@@ -9,45 +9,54 @@
 
 ### 🚀 About Me
 
-- 🤖 Building **Agentic AI pipelines** and **RAG systems** with CrewAI & LangGraph
-- 🧠 Working with frontier LLMs like **Gemini** for real-world automation
-- 📊 Turning messy data into intelligent, decision-ready pipelines
+- 🤖 Building **Agentic AI pipelines**, **Multi-Agent Systems**, and advanced **RAG architectures** with LangGraph, LangChain, and CrewAI
+- 🧠 Leveraging frontier LLMs like **Gemini** for real-world automation, OCR workflows, and WhatsApp integrations
+- ⚙️ Shipping production-ready AI flows backed by Docker, GCP, and GitHub Actions
 - 🎓 BE in Computer Science @ Matrusri Engineering College (2025)
-- 🏅 Oracle Cloud Infrastructure (OCI) 2025 AI Foundations Associate
+- 🏅 Oracle Cloud Infrastructure (OCI) 2025 AI Foundations Associate & RapidMiner ML Professional
 
 ---
 
-### 🤖 Agentic AI & LLMs
+### 💼 Professional Experience
+
+- **AI Engineer @ MetaNova AI** *(Dec 2025 – Present | Hyderabad, India)*
+  - Building and deploying WhatsApp bot agents with Meta API integrations and multi-agent automation workflows.
+  - Architecting multimodal RAG pipelines over 180+ video assets using ChromaDB for real-time business and sales intelligence.
+  - Developing OCR agents, autonomous invoice processing pipelines, and production-ready LLM flows with tool calling and prompt engineering.
+
+---
+
+### 🤖 AI & LLMs
 
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7F77DD?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Orchestration-7F77DD?style=flat-square&logoColor=white)
+![RAG & Hybrid Retrieval](https://img.shields.io/badge/RAG_%26_Hybrid_Retrieval-7F77DD?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7F77DD?style=flat-square&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-1D9E75?style=flat-square&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1D9E75?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1D9E75?style=flat-square&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-1D9E75?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1D9E75?style=flat-square&logoColor=white)
+![LLM Evaluation (RAGAS)](https://img.shields.io/badge/RAGAS_Evaluation-1D9E75?style=flat-square&logoColor=white)
 
 ---
 
 ### 🗄️ Databases & Infrastructure
 
-![Qdrant](https://img.shields.io/badge/Qdrant-378ADD?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-378ADD?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-378ADD?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-378ADD?style=flat-square&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-378ADD?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7F77DD?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-7F77DD?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 📊 ML & Data
+### 📊 ML & Backend
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-EF9F27?style=flat-square&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EF9F27?style=flat-square&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-EF9F27?style=flat-square&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-EF9F27?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-EF9F27?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-378ADD?style=flat-square&logoColor=white)
+![Meta APIs](https://img.shields.io/badge/Meta_APIs-0084FF?style=flat-square&logo=meta&logoColor=white)
 
 ---
 
@@ -55,10 +64,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 **HealthMatrix-AI** | Cloud-backed health intelligence platform with multi-agent orchestration & RAG | CrewAI · Qdrant · Streamlit |
-| 📈 **AI Sales RAG App** | Pipeline processing 180+ video assets into a searchable sales intelligence base | ChromaDB · LLMs · Streamlit |
-| 🔮 **Customer Churn Predictor** | XGBoost model with 21.5% accuracy boost, real-time Flask dashboard, Cohere AI explainability | XGBoost · Flask · Power BI |
-| 🛡️ **Fraud Detection Platform** | 87.5% precision model processing 6.3M+ transactions, 40% fewer false positives | Scikit-learn · Flask |
+| 🏥 **MedGuard AI** | Agentic RAG pipeline with evidence grading, query rewriting, hybrid search (BM25 + Chroma), and RAGAS evaluation | LangGraph · Gemini · ChromaDB · FastAPI · Docker |
+| 📄 **PayTrace Invoice Agent** | Five-node autonomous agent extracting, validating, and processing PDF invoices with Google Document AI & Gemini | LangGraph · Gemini · Document AI · Pydantic |
+| 🧬 **Polymer Property Prediction** | ML models predicting 5 polymer properties from SMILES strings for NeurIPS Kaggle competition using RDKit & XGBoost | Python · RDKit · XGBoost · Scikit-learn |
 
 ---
 
