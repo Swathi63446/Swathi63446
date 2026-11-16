@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🤖 Building **Agentic AI pipelines**, **Multi-Agent Systems**, and advanced **RAG architectures** with LangGraph, LangChain, and CrewAI
+- 🤖 Building **Agentic AI pipelines**, **Multi-Agent-Systems**, and advanced **RAG architectures** with LangGraph, LangChain, and CrewAI
 - 🧠 Leveraging frontier LLMs like **Gemini** for real-world automation, OCR workflows, and WhatsApp integrations
 - ⚙️ Shipping production-ready AI flows backed by Docker, GCP, and GitHub Actions
 - 🎓 BE in Computer Science @ Matrusri Engineering College (2025)
