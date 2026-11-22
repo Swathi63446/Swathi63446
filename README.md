@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Dhanyamraju Swathi S</h1>
+<h1 align="center">Hey there! 👋 I'm Dhanyamraju Swathi </h1>
 
 <p align="center">
   <b>AI Engineer · Agentic AI · RAG · Multi-Agent Systems</b><br/>
