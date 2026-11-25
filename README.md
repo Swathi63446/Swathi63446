@@ -19,7 +19,7 @@
 
 ### 💼 Professional Experience
 
-- **AI Engineer @ MetaNova AI** *(Dec 2025 – Present | Hyderabad, India)*
+- **AI Engineer @ MetaNova AI** *(Aug 2025 – Present | Hyderabad, India)*
   - Building and deploying WhatsApp bot agents with Meta API integrations and multi-agent automation workflows.
   - Architecting multimodal RAG pipelines over 180+ video assets using ChromaDB for real-time business and sales intelligence.
   - Developing OCR agents, autonomous invoice processing pipelines, and production-ready LLM flows with tool calling and prompt engineering.
